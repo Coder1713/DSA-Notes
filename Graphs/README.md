@@ -1,4 +1,4 @@
-Graphs
+Graphs are one of the most important topics in coding interviews. This section covers graph traversal, connectivity, shortest paths, spanning trees, and advanced graph algorithms.
 Topics Covered
 
 - BFS
